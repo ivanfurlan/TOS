@@ -4,3 +4,9 @@
 [submodule "Assignment1-TOS"]
 	path = Assignment1-TOS
 	url = git@github.com:ivanfurlan/Assignment1-TOS.git
+[submodule "LAB2-TOS"]
+	path = LAB2-TOS
+	url = git@github.com:ivanfurlan/LAB2-TOS.git
+[submodule "LAB1-TOS"]
+	path = LAB1-TOS
+	url = git@github.com:ivanfurlan/LAB1-TOS.git
