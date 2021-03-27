@@ -1,0 +1,6 @@
+[submodule "Assignment2-TOS"]
+	path = Assignment2-TOS
+	url = git@github.com:ivanfurlan/Assignment2-TOS.git
+[submodule "Assignment1-TOS"]
+	path = Assignment1-TOS
+	url = git@github.com:ivanfurlan/Assignment1-TOS.git
